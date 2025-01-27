@@ -2,7 +2,7 @@
 title:  From HomeBrew to Nix-Darwin.
 tags: ["Nix", "Homebrew", "Package Manager","MacOS"]
 cover: ../../assets/post-images/nix-darwin/cover.png
-description: Why I Switched from Homebrew to Nix-Darwin
+description: How I Switched from Homebrew to Nix-Darwin
 publishedAt: 2024-11-08
 ---
 
