@@ -28,7 +28,7 @@
               "format": "unix-time"
             }
           ],
-          "default": "2025-02-01T07:45:10.715Z"
+          "default": "2025-02-01T08:33:37.988Z"
         },
         "$schema": {
           "type": "string"
