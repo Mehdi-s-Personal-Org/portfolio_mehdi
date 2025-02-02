@@ -1,6 +1,7 @@
 ---
 import { Config } from "../config";
 import { ViewTransitions } from "astro:transitions";
+import "../styles/global.css";
 
 interface Props {
   title?: string;
@@ -24,7 +25,11 @@ const currentPath = Astro.url.pathname;
 ---
 
 <!doctype html>
-<html class="bg-paper-color text-base-content overflow-y-scroll" lang="en">
+<html
+  data-theme="retro"
+  class="bg-paper-color text-base-content overflow-y-scrollg-paper-color text-base-content overflow-y-scroll"
+  lang="en"
+>
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
