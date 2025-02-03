@@ -90,6 +90,11 @@ export const Config: IConfig = {
       //   icon: "/icons/css.svg",
       //   url: "https://developer.mozilla.org/en-US/docs/Web/CSS",
       // },
+      go: {
+        name: "Go",
+        icon: "/icons/golang.svg",
+        url: "https://go.dev/",
+      }
     },
     Frontend: {
       react: {
